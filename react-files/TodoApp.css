@@ -1,0 +1,21 @@
+
+.todoListMain .header input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #FFF;
+  width: 165px;
+}
+.container{
+  padding: 2px;
+  font-size: 16px;
+  border: 2px solid #FFF;
+  /* width: 165px; */
+  background-color: #d5dbe5;
+}
+.header{
+  background-color: #3067c1;
+  /* margin-top: 10px; */
+  margin: inherit;
+
+}
+@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css');
